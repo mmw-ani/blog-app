@@ -14,3 +14,9 @@ For Docker
 Run docker compose up
 
 ```
+
+Hosted URL ="https://reunion-blog.onrender.com/"
+```
+  username:admin,
+  password:admin@#123
+```
